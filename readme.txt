@@ -1,5 +1,5 @@
 === Thememiles Toolset ===
-Contributors: ThemeMiles, addonspress,dipendahal
+Contributors: ThemeMiles,dipendahal
 Tags: thememiles, theme demos, demo, importer, one click import
 Requires at least: 4.6
 Tested up to: 5.3
